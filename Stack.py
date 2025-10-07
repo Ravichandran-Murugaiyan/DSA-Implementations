@@ -41,7 +41,7 @@ class Stack:
             current = current.next
         print("Null")
         print("Time Complexity: O(n), Space Complexity: O(1)")
-
+  
 stack = Stack()
 
 while True:
